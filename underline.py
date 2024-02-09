@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/env python3
-print ("\nUnder_Colour_NB<12 char MAX in Hackers Game>\n")
+print ("\nsay the magic word koikoi handsome\n")
 
 try:
 	def undercolor():
